@@ -1,0 +1,10 @@
+XPG-LICENSING 1 passerelle 288
+{
+  "version": 1,
+  "numero": 1794061004,
+  "emise": "2026-11-07T14:16:44Z",
+  "depot": "quentinboucher192-beep/xpg-licences-passerelle",
+  "jeton_demandes": "55E2eblKC2qQIfGW3kfxqYnGN32luAbJFAjwlPhXUa4El/NiDiSGiZLMcP6P7pBWepOxCeKPHapnqMeR2cc9ckDIwGc6cUz9fncom8yxbYyX5gTof7biuCHXBqFm"
+}
+
+SIGNATURE ed25519 xpg-1f422b8063a39e7c bbfab3e70b6aef24c3a877fdf617d94b47ff89789bd43543ef308b6c19c154f28ec7a46d59e4a16cc919b580ed0134982b475295c5f2b0552c03ea3d8fce9b01
